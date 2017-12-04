@@ -1,4 +1,6 @@
-*A constant force is applied to a free rod, perpendicular to the length of that rod. What is the resulting behavior of the rod? What happens if we replace the rod with some other object with a different moment of inertia?*
+### A constant force is applied to a free rod, perpendicular to the length of that rod. 
+* What is the resulting behavior of the rod? 
+* What happens if we replace the rod with some other object with a different moment of inertia?
 
 # Standard Rod:
 ![plot-1]
