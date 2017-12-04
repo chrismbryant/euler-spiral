@@ -1,13 +1,11 @@
-# euler-spiral
+*A constant force is applied to a free rod, perpendicular to the length of that rod. What is the resulting behavior of the rod? What happens if we replace the rod with some other object with a different moment of inertia?*
 
-## Some Images:
-
-### Standard Rod:
+# Standard Rod:
 ![plot-1]
 ![plot-2]
 ![plot-3]
 
-### Object with Increased Moment of Inertia:
+## Object with Increased Moment of Inertia:
 ![plot-4]
 ![plot-5]
 
