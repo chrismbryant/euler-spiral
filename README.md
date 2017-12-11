@@ -4,7 +4,7 @@
 
 # Standard Rod:
 ![plot-1]
-### The rod's left end, center of mass (COM), and right end are plotted below.
+#### The rod's left end, center of mass (COM), and right end are plotted below:
 ![plot-2]
 ![plot-3]
 
