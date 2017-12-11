@@ -1,9 +1,10 @@
-### A constant force is applied to a free rod, perpendicular to the length of that rod. 
+### A constant force is applied to a free rod at its end, perpendicular to the length of that rod. 
 * What is the resulting behavior of the rod? 
 * What happens if we replace the rod with some other object with a different moment of inertia?
 
 # Standard Rod:
 ![plot-1]
+##The rod's left end, center of mass (COM), and right end are plotted below.
 ![plot-2]
 ![plot-3]
 
